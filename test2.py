@@ -1,4 +1,5 @@
-# Run python3 test2.py
+# python 3.7.1
+# Run python test2.py
 
 author_list = [{'id': 1, 'name': 'Herman Melville'},
                {'id': 2, 'name': 'Newton Man'}]
