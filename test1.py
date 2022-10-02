@@ -18,4 +18,4 @@ for progress_exam in progress_exam_list:
     progress_exam['progress_section_list'].append(progress_section_dict)
 
 print('====== Result ======')
-print(f'{progress_exam_list=}')
+print(f'progress_exam_list = {progress_exam_list}')
